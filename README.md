@@ -9,7 +9,7 @@ Pytorch implementation of MUGAN.
 - visdom 
 
 ## Data Preparation
-Download the KAIST-MS and IRVI dataset.
+Download the KAIST-MS(https://github.com/SoonminHwang/rgbt-ped-detection/blob/master/data/README.md) and IRVI(https://pan.baidu.com/s/1og7bcuVDModuBJhEQXWPxg?pwd=IRVI) dataset.
 
 ## Colorization results
 ### KAIST-MS dataset
