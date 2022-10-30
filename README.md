@@ -11,9 +11,15 @@ Pytorch implementation of MUGAN.
 ## Data Preparation
 Download the KAIST-MS and IRVI dataset.
 
-## Colorizad results
+## Colorization results
 ### KAIST-MS dataset
+![kaist](img/kaist.png)
 
 ### IRVI-Traffic dataset
+![traffic](img/traffic.png)
 
 ### IRVI-Monitoring
+![monitoring](img/monitoring.png)
+
+## Acknowledgments
+This code heavily borrowes from [TICCGAN](https://github.com/Kuangxd/TICCGAN).
